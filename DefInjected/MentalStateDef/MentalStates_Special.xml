@@ -12,7 +12,7 @@
     <PanicFlee.recoveryMessage>{0} ne fuit plus sous le coup de la panique.</PanicFlee.recoveryMessage>
     
     <Manhunter.label>Chasse à l'homme</Manhunter.label>
-    <Manhunter.beginLetterLabel>manhunter</Manhunter.beginLetterLabel>
+    <Manhunter.beginLetterLabel>chasse à l'homme</Manhunter.beginLetterLabel>
     <Manhunter.beginLetter>{0} est devenu un chasseur d'homme!</Manhunter.beginLetter>
     <Manhunter.recoveryMessage>{0} n'a plus la pulsion de chasser des hommes.</Manhunter.recoveryMessage>
     
