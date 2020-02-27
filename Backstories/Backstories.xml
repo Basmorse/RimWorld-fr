@@ -3465,29 +3465,29 @@
   
   <InfantryEngineer46>
     <!-- EN: infantry engineer -->
-    <title>TODO</title>
+    <title>Ingénieur d'infanterie</title>
     <!-- EN: engineer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>ingénieur</titleShort>
     <!-- EN: Despite being in an infantry battalion, [PAWN_nameDef] rarely fired a gun. [PAWN_possessive] specialty was the rapid construction of defenses, traps, defensive installations, and sapping tunnels. -->
-    <desc>TODO</desc>
+    <desc>Bien que faisant partie d'un bataillon d'infanterie, [PAWN_nameDef] a rarement tiré avec une arme.[PAWN_possessive] La spécialité était la construction rapide de défenses, de pièges, d'installations défensives et de creuser des tunnels.</desc>
   </InfantryEngineer46>
   
   <InfantryMedic6>
     <!-- EN: infantry medic -->
-    <title>TODO</title>
+    <title>médecin d'infanterie</title>
     <!-- EN: medic -->
-    <titleShort>TODO</titleShort>
+    <titleShort>médecin</titleShort>
     <!-- EN: [PAWN_nameDef] treated the combat wounds of [PAWN_possessive] fallen comrades. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] a soigné les blessures de combat de [PAWN_possessive] camarades tombés au combat.</desc>
   </InfantryMedic6>
   
   <InfantryOfficer49>
     <!-- EN: infantry officer -->
-    <title>TODO</title>
+    <title>officier d'infanterie</title>
     <!-- EN: officer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>officier</titleShort>
     <!-- EN: [PAWN_nameDef] was an officer in an imperial battalion. [PAWN_pronoun] developed the social and combat skills to do [PAWN_possessive] job well and was respected by the men. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] était officier dans un bataillon impérial. [PAWN_pronoun]a développé les compétences sociales et de combat nécessaires pour faire [PAWN_possessive] travail bien fait et a été respecté par les hommes.</desc>
   </InfantryOfficer49>
   
   <InformationBroker77>
@@ -3650,11 +3650,11 @@
   
   <Landworker98>
     <!-- EN: landworker -->
-    <title>TODO</title>
+    <title>Travailleur agricole</title>
     <!-- EN: landworker -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Travailleur agricole</titleShort>
     <!-- EN: [PAWN_nameDef] held the position of landworker in [PAWN_possessive] royal house. [PAWN_pronoun] managed the family's lands and all the resources on them - both agricultural and mineral.\n\nThough [PAWN_pronoun] would never work the machines [PAWN_objective]self, managing these enterprises required learning the methods of farming and mining in detail. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] a occupé le poste de travailleur de la terre en [PAWN_possessive] maison royale. [PAWN_pronoun] gérait les terres de la famille et toutes les ressources qui s'y trouvaient - tant agricoles que minérales.\n\n Bien que [PAWN_pronoun] ne ferait jamais fonctionner les machines [PAWN_objective] pour gérer ces entreprises, il fallait apprendre en détail les méthodes de l'agriculture et de l'exploitation minière.</desc>
   </Landworker98>
   
   <LanguageAnalyst27>
@@ -3679,29 +3679,29 @@
   
   <LineInfanteer20>
     <!-- EN: line infanteer -->
-    <title>TODO</title>
+    <title>infanterie de ligne</title>
     <!-- EN: infanteer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>infanterie</titleShort>
     <!-- EN: [PAWN_nameDef] was an ordinary infanteer in an imperial battalion.\n\nConscripted at a young age to add bodies the army, [PAWN_nameDef] learned the methods of fighting well enough to satisfy [PAWN_possessive] officers. However, [PAWN_pronoun] never quite understood what was going on around [PAWN_objective] enough to really believe in it. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] était un simple soldat d'infanterie dans un bataillon impérial. Enrôlé à un jeune âge pour ajouter des membres à l'armée, [PAWN_nameDef] a appris les méthodes de combat assez bien pour satisfaire [PAWN_possessive] des officiers. Cependant, [PAWN_pronoun] n'a jamais vraiment compris ce qui se passait autour [PAWN_objective] suffisamment pour y croire vraiment.</desc>
   </LineInfanteer20>
   
   <LivestockFarmer8>
     <!-- EN: livestock farmer -->
-    <title>TODO</title>
+    <title>éleveur de bétail</title>
     <!-- EN: farmer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>fermier</titleShort>
     <!-- EN: [PAWN_nameDef] ran a livestock farm. [PAWN_pronoun] analyzed animal genetics, feed types, birth and slaughter methods, and price trends to optimize the raising of huge animal herds. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] exploitait une ferme d'élevage. [PAWN_pronoun] a analysé la génétique animale, les types d'aliments, les méthodes de naissance et d'abattage et les tendances des prix pour optimiser l'élevage d'énormes troupeaux d'animaux.</desc>
   </LivestockFarmer8>
   
   <Logger16>
     <!-- EN: logger -->
-    <title>TODO</title>
+    <title>bûcheron</title>
     <!-- EN: logger -->
-    <titleShort>TODO</titleShort>
+    <titleShort>bûcheron</titleShort>
     <!-- EN: [PAWN_nameDef] chopped trees and hauled their lumber back to the tribe. [PAWN_pronoun] wielded [PAWN_possessive] axe with the finesse of an artist and the force of a charging muffalo. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] coupait les arbres et ramenait du bois à la tribu. [PAWN_pronoun] a manié [PAWN_possessive] hache avec la finesse d'un artiste et la force d'un muffalo qui charge.</desc>
   </Logger16>
   
   <LogicalChild2>
